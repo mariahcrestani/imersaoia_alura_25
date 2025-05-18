@@ -2,7 +2,7 @@
 ![Feito com Python](https://img.shields.io/badge/feito%20com-Python-3776AB?logo=python&logoColor=white)
 ![Matchmaker IA](https://img.shields.io/badge/matchmaker-IA%20inteligente-ff69b4)
 ![UX Focada](https://img.shields.io/badge/experi%C3%AAncia-fluida%20e%20descomplicada-success)
-![Banner](banner_Agente_IA_Tinder_para_concursos.png)
+![Banner](./arquivos/banner_Agente_IA_Tinder_para_concursos.png)
 
 # 💖 Tinder para Concursos  
 ### 🎯 "Dê match com a vaga certa e conquiste a estabilidade dos sonhos!"
@@ -68,6 +68,10 @@ Inspirado no estilo de apps de relacionamento, o projeto cria um “match” ent
 - **NLP (Processamento de Linguagem Natural)** – Para interpretar perfis e editais.
 
 ---
+<p align="center">
+  <img src="./arquivos/TESTE_2_AGENTEIA .gif" alt="Demonstração do funcionamento" width="600"/>
+</p>
+
 
 ## ➡️ Próximos Passos
 
