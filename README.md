@@ -2,6 +2,7 @@
 ![Feito com Python](https://img.shields.io/badge/feito%20com-Python-3776AB?logo=python&logoColor=white)
 ![Matchmaker IA](https://img.shields.io/badge/matchmaker-IA%20inteligente-ff69b4)
 ![UX Focada](https://img.shields.io/badge/experi%C3%AAncia-fluida%20e%20descomplicada-success)
+![Banner](banner_Agente_IA_Tinder_para_concursos.png)
 
 # 💖 Tinder para Concursos  
 ### 🎯 "Dê match com a vaga certa e conquiste a estabilidade dos sonhos!"
